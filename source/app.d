@@ -1,6 +1,12 @@
 import std.stdio;
+import entity;
+import structure;
 
 void main()
 {
-	writeln("Edit source/app.d to start your project.");
+
+	Entity entity = new Entity();
+	Structure structure = new Structure("Boop");
+	writeln(structure.name);
+
 }
