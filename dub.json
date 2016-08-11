@@ -1,0 +1,9 @@
+{
+	"name": "dpdb",
+	"authors": [
+		"Harry Jubb"
+	],
+	"description": "PDB (Protein Data Bank) parser.",
+	"copyright": "Copyright © 2016, Harry Jubb",
+	"license": "GPLv3"
+}
